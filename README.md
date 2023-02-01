@@ -2,4 +2,4 @@
 Clipboard Manager for Apple devices
 
 
-[Download](https://www.icloud.com/shortcuts/a5140d9f2665485abbdb54d8795d61cf)
+[Download v1.3](https://github.com/LiF-Lee/Clipboard-Manager/releases/tag/v1.3)
