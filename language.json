@@ -1,0 +1,34 @@
+{
+    "SELECTLANG": {
+        "en": "Select your language.",
+        "ko": "언어를 선택하세요."
+    },
+    "SELECTMENU": {
+        "en": "Select an item to work on.",
+        "ko": "작업할 항목을 선택하세요."
+    },
+    "SELECTITEM": {
+        "en": "Select an item to copy.",
+        "ko": "복사할 항목을 선택하세요."
+    },
+    "VERSIONNOTMATCH": {
+        "en": "Cannot completed because the version not match.",
+        "ko": "버전이 달라 작업을 완료할 수 없습니다."
+    },
+    "SAVE": {
+        "en": "Save Clipboard",
+        "ko": "저장하기"
+    },
+    "SHOWLIST": {
+        "en": "Show List",
+        "ko": "가져오기"
+    },
+    "DELETE": {
+        "en": "Delete List",
+        "ko": "삭제하기"
+    },
+    "CANCLE": {
+        "en": "Cancle",
+        "ko": "취소하기"
+    }
+}
