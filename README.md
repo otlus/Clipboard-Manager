@@ -1,6 +1,10 @@
 # Clipboard-Manager
 Clipboard Manager for Apple devices
 
+[Korean Docs](https://m.blog.naver.com/re_elif/223003540298)
+
+
+
 [Download Latest](https://github.com/LiF-Lee/Clipboard-Manager/releases/tag/v2.0)
 
 
