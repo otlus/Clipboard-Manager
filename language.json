@@ -15,6 +15,10 @@
         "en": "Cannot completed because the version not match.",
         "ko": "버전이 달라 작업을 완료할 수 없습니다."
     },
+    "NOITEMS": {
+        "en": "No items to copy.",
+        "ko": "복사할 항목이 없습니다."
+    },
     "SAVE": {
         "en": "Save Clipboard",
         "ko": "저장하기"
@@ -22,6 +26,10 @@
     "SHOWLIST": {
         "en": "Show List",
         "ko": "가져오기"
+    },
+    "SHOWALL": {
+        "en": "Show All items",
+        "ko": "전체보기"
     },
     "DELETE": {
         "en": "Delete List",
