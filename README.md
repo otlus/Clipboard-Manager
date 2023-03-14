@@ -11,14 +11,14 @@
 
 # Preview Image
 
-<img src="https://user-images.githubusercontent.com/66173558/224914728-ea24eeab-53b5-493a-bdda-1971d21b8b8c.jpeg" width="500">
+<img src="https://user-images.githubusercontent.com/66173558/225060735-116c8ded-5f33-4828-9301-96c504fc0613.png" width="500">
 
 
 
 # Download
 
 | Version | Released Date |
-| ------------- | ------------- |
+| :-------------: | :-------------: |
 | [v1.0](https://github.com/Clipboard-Manager/Clipboard-Manager/releases/tag/v1.0) | 2023. 02. 01 |
 | [v2.0](https://github.com/Clipboard-Manager/Clipboard-Manager/releases/tag/v2.0) | 2023. 02. 02 |
 | [v2.1](https://github.com/Clipboard-Manager/Clipboard-Manager/releases/tag/v2.1) | 2023. 02. 03 |
