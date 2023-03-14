@@ -1,3 +1,5 @@
+<img align=left src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEliF-Lee%2FEliF-Lee&count_bg=%236495ED&title_bg=%23555555&icon=aiqfome.svg&icon_color=%23F0FFFF&title=Thanks+for+Visiting&edge_flat=false" />
+
 # Clipboard-Manager
 Clipboard Manager for Apple devices
 
