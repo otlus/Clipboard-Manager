@@ -5,7 +5,7 @@ Clipboard Manager for Apple devices
 
 
 
-[Download Latest](https://github.com/LiF-Lee/Clipboard-Manager/releases/tag/v2.1)
+[Download Latest](https://github.com/LiF-Lee/Clipboard-Manager/releases/tag/v2.2)
 
 
 # Download
@@ -15,3 +15,4 @@ Clipboard Manager for Apple devices
 | [v1.0](https://github.com/LiF-Lee/Clipboard-Manager/releases/tag/v1.0) | 2023. 02. 01 |
 | [v2.0](https://github.com/LiF-Lee/Clipboard-Manager/releases/tag/v2.0) | 2023. 02. 02 |
 | [v2.1](https://github.com/LiF-Lee/Clipboard-Manager/releases/tag/v2.1) | 2023. 02. 03 |
+| [v2.2](https://github.com/LiF-Lee/Clipboard-Manager/releases/tag/v2.1) | 2023. 03. 14 |
