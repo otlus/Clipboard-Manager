@@ -6,7 +6,7 @@
 
 ### [Docs](https://lif-lee.notion.site/Clipboard-Manager-for-Apple-Shortcuts-260f40b2c4be4181b00a17638e4ccb1a)
 
-### [Download Latest](https://github.com/Clipboard-Manager/Clipboard-Manager/releases/tag/v2.2)
+### [Download Latest](https://github.com/Clipboard-Manager/Clipboard-Manager/releases/latest)
 
 
 
