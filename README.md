@@ -24,10 +24,10 @@
 
 | Version | Released Date |
 | :-------------: | :-------------: |
-| [v1.0](https://github.com/Clipboard-Manager/Clipboard-Manager/releases/tag/v1.0) | 2023. 02. 01 |
-| [v2.0](https://github.com/Clipboard-Manager/Clipboard-Manager/releases/tag/v2.0) | 2023. 02. 02 |
-| [v2.1](https://github.com/Clipboard-Manager/Clipboard-Manager/releases/tag/v2.1) | 2023. 02. 03 |
-| [v2.2](https://github.com/Clipboard-Manager/Clipboard-Manager/releases/tag/v2.2) | 2023. 03. 14 |
-| [v2.3](https://github.com/Clipboard-Manager/Clipboard-Manager/releases/tag/v2.3) | 2023. 03. 15 |
-| [v2.4](https://github.com/Clipboard-Manager/Clipboard-Manager/releases/tag/v2.4) | 2023. 04. 25 |
-| [v2.4.1](https://github.com/Clipboard-Manager/Clipboard-Manager/releases/tag/v2.4.1) | 2023. 05. 01 |
+| [v1.0](https://github.com/otlus/Clipboard-Manager/releases/tag/v1.0) | 2023. 02. 01 |
+| [v2.0](https://github.com/otlus/Clipboard-Manager/releases/tag/v2.0) | 2023. 02. 02 |
+| [v2.1](https://github.com/otlus/Clipboard-Manager/releases/tag/v2.1) | 2023. 02. 03 |
+| [v2.2](https://github.com/otlus/Clipboard-Manager/releases/tag/v2.2) | 2023. 03. 14 |
+| [v2.3](https://github.com/otlus/Clipboard-Manager/releases/tag/v2.3) | 2023. 03. 15 |
+| [v2.4](https://github.com/otlus/Clipboard-Manager/releases/tag/v2.4) | 2023. 04. 25 |
+| [v2.4.1](https://github.com/otlus/Clipboard-Manager/releases/tag/v2.4.1) | 2023. 05. 01 |
