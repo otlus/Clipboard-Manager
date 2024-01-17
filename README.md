@@ -4,10 +4,10 @@
 ![image](https://user-images.githubusercontent.com/66173558/225175694-1491bf36-02d5-4ed2-9c7b-739e02e8857a.png)
 
 
-## 지원 플랫폼
+## Supported platforms
 
-| 플랫폼 | 지원 여부 | 버전 |
-|:------:|:--------:|:---------:|
+| Platform | Support | Version |
+|:------:|:--------:|:---------|
 | iOS | ✅ | `>=` **16.0 (20A362)** |
 | iPadOS | ✅ | `>=` **16.1 (20B82)** |
 | macOS | ✅ | `>=` **Ventura 13.0** |
@@ -16,7 +16,7 @@
 ### [Download Latest](https://github.com/Clipboard-Manager/Clipboard-Manager/releases/latest)
 
 
-# Preview Image
+# Preview
 
 <img src="https://user-images.githubusercontent.com/66173558/225060735-116c8ded-5f33-4828-9301-96c504fc0613.png" width="500">
 
