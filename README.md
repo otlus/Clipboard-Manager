@@ -4,7 +4,15 @@
 ![image](https://user-images.githubusercontent.com/66173558/225175694-1491bf36-02d5-4ed2-9c7b-739e02e8857a.png)
 
 
-## Supported platforms
+## Supported Languages
+
+| Language |  Support |
+|:------:|:------:|
+| English | ✅ |
+| Korean | ✅ |
+
+
+## Supported Platforms
 
 | Platform | Support | Version |
 |:------:|:--------:|:---------|
@@ -16,14 +24,13 @@
 ### [Download Latest](https://github.com/Clipboard-Manager/Clipboard-Manager/releases/latest)
 
 
-# Preview
+# Preview Image
 
-<img src="https://user-images.githubusercontent.com/66173558/225060735-116c8ded-5f33-4828-9301-96c504fc0613.png" width="500">
+![image](https://github.com/otlus/Clipboard-Manager/assets/66173558/b96207b6-9afb-44c6-ad38-a0c0c2eb389a)
 
-<img src="https://user-images.githubusercontent.com/66173558/225175840-8ac48218-3f1d-4409-b9aa-0632f8a973ca.png" width="500">
+![image](https://github.com/otlus/Clipboard-Manager/assets/66173558/081f3fa7-cc4d-4e3e-a750-68a29e5bd10b)
 
-<img src="https://user-images.githubusercontent.com/66173558/225197486-8ff7aa91-eb87-4047-807c-cbe30b9c4192.png" width="500">
-
+![image](https://github.com/otlus/Clipboard-Manager/assets/66173558/f3ff0e31-29c8-4f2d-aa69-e41eb538c300)
 
 
 # Download
