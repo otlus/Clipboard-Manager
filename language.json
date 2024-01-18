@@ -51,8 +51,8 @@
         "en": "Delete All",
         "ko": "전체 삭제"
     },
-    "CANCLE": {
-        "en": "Cancle",
+    "CANCEL": {
+        "en": "Cancel",
         "ko": "취소하기"
     }
 }
