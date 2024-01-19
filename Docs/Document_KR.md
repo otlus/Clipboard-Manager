@@ -2,8 +2,8 @@
 
 
 # 📝목차
-- [⚒️설치 방법](#⚒️설치-방법)
-- [✏️사용 방법](#✏️사용-방법)
+- [⚒️설치 방법](#%EF%B8%8F%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95)
+- [✏️사용 방법](#%EF%B8%8F%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95)
   - [Clipboard Save](#Clipboard-Save)
   - [Clipboard Save Interval](#Clipboard-Save-Interval)
   - [Clipboard Lists](#Clipboard-Lists)
