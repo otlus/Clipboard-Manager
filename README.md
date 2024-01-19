@@ -25,7 +25,7 @@
 | macOS | ✅ | `>=` **Ventura 13.0** |
 
 
-# Preview Image
+## Preview Image
 
 ![20240119_1116469091](https://github.com/otlus/Clipboard-Manager/assets/66173558/65947bc3-6680-448a-82b1-1e6bf8b7c469)
 
