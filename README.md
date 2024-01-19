@@ -12,7 +12,7 @@
 - [한국어](https://github.com/otlus/Clipboard-Manager/blob/main/Docs/Document_KR.md)
 
 
-## Supported Languages
+## 🌎Supported Languages
 
 | Language |  Support |
 |:------:|:------:|
@@ -20,7 +20,7 @@
 | Korean | ✅ |
 
 
-## Supported Platforms
+## 📱Supported Platforms
 
 | Platform | Support | Version |
 |:------:|:--------:|:---------|
@@ -29,12 +29,12 @@
 | macOS | ✅ | `>=` **Ventura 13.0** |
 
 
-## Preview Image
+## 📌Preview Image
 
 ![20240119_1116469093](https://github.com/otlus/Clipboard-Manager/assets/66173558/c11f23ec-faf3-419c-a605-c00e8a23fa7c)
 
 
-## Download Archive
+## 📥Download Archive
 
 | Version | Released Date |
 | :-------------: | :-------------: |
