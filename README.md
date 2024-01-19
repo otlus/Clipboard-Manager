@@ -6,7 +6,11 @@
 
 ### [Download Latest](https://github.com/Clipboard-Manager/Clipboard-Manager/releases/latest)
 
----
+
+## 📝Document
+- [English](https://github.com/otlus/Clipboard-Manager/blob/main/Docs/Document_EN.md)
+- [한국어](https://github.com/otlus/Clipboard-Manager/blob/main/Docs/Document_KR.md)
+
 
 ## Supported Languages
 
@@ -27,16 +31,10 @@
 
 ## Preview Image
 
-![20240119_1116469091](https://github.com/otlus/Clipboard-Manager/assets/66173558/65947bc3-6680-448a-82b1-1e6bf8b7c469)
-
-![20240119_1116469092](https://github.com/otlus/Clipboard-Manager/assets/66173558/3445c885-f562-4e3f-9616-161d7e24b868)
-
 ![20240119_1116469093](https://github.com/otlus/Clipboard-Manager/assets/66173558/c11f23ec-faf3-419c-a605-c00e8a23fa7c)
 
-![20240119_1116469094](https://github.com/otlus/Clipboard-Manager/assets/66173558/cb7e303b-33fc-43c8-b7dc-debaeb6020d5)
 
-
-## Download
+## Download Archive
 
 | Version | Released Date |
 | :-------------: | :-------------: |
