@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/66173558/225175694-1491bf36-02d5-4ed2-9c7b-739e02e8857a.png)
 
 
-### [Download Latest](https://github.com/Clipboard-Manager/Clipboard-Manager/releases/latest)
+### [Download Latest](https://github.com/otlus/Clipboard-Manager/releases/latest)
 
 
 ## 📝Document
