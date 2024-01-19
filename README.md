@@ -27,14 +27,16 @@
 
 # Preview Image
 
-![image](https://github.com/otlus/Clipboard-Manager/assets/66173558/b96207b6-9afb-44c6-ad38-a0c0c2eb389a)
+![20240119_1116469091](https://github.com/otlus/Clipboard-Manager/assets/66173558/65947bc3-6680-448a-82b1-1e6bf8b7c469)
 
-![image](https://github.com/otlus/Clipboard-Manager/assets/66173558/081f3fa7-cc4d-4e3e-a750-68a29e5bd10b)
+![20240119_1116469092](https://github.com/otlus/Clipboard-Manager/assets/66173558/3445c885-f562-4e3f-9616-161d7e24b868)
 
-![image](https://github.com/otlus/Clipboard-Manager/assets/66173558/f3ff0e31-29c8-4f2d-aa69-e41eb538c300)
+![20240119_1116469093](https://github.com/otlus/Clipboard-Manager/assets/66173558/c11f23ec-faf3-419c-a605-c00e8a23fa7c)
+
+![20240119_1116469094](https://github.com/otlus/Clipboard-Manager/assets/66173558/cb7e303b-33fc-43c8-b7dc-debaeb6020d5)
 
 
-# Download
+## Download
 
 | Version | Released Date |
 | :-------------: | :-------------: |
