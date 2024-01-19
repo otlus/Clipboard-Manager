@@ -52,8 +52,8 @@
 
 > Automatically saves the content copied after launch.
 > - If the screen is off and locked, security policies will stop the action.
-> 
-> https://github.com/otlus/Clipboard-Manager/assets/66173558/95b02cd9-3692-41a4-a232-5950644e7890
+>
+> ![20240119_1330526851](https://github.com/otlus/Clipboard-Manager/assets/66173558/f543aa16-e356-4d4e-bd08-b872e91ed963)
 
 
 ### Clipboard Lists
