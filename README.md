@@ -47,3 +47,4 @@
 | [v2.4.1](https://github.com/otlus/Clipboard-Manager/releases/tag/v2.4.1) | 2023. 05. 01 |
 | [v2.4.2](https://github.com/otlus/Clipboard-Manager/releases/tag/v2.4.2) | 2024. 01. 18 |
 | [v3.0](https://github.com/otlus/Clipboard-Manager/releases/tag/v3.0) | 2024. 01. 19 |
+| [v3.0.1](https://github.com/otlus/Clipboard-Manager/releases/tag/v3.0.1) | 2024. 01. 20 |
