@@ -51,6 +51,7 @@
 ### Clipboard Save Interaval
 
 > Automatically saves the content copied after launch.
+> - This feature requires `Clipboard Save` to work.
 > - If the screen is off and locked, security policies will stop the action.
 >
 > ![20240119_1330526851](https://github.com/otlus/Clipboard-Manager/assets/66173558/9f9e14cb-4f61-4196-a48a-d7136a4d0e8a)
