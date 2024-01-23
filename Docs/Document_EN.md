@@ -4,10 +4,10 @@
 # 📝Contents
 - [⚒️How to Install](#%EF%B8%8FHow-to-Install)
 - [✏️How to Use](#%EF%B8%8FHow-to-Use)
-  - [Clipboard Save](#Clipboard-Save)
-  - [Clipboard Save Interval](#Clipboard-Save-Interval)
-  - [Clipboard Lists](#Clipboard-Lists)
-  - [Clipboard Delete](#Clipboard-Delete)
+  - [Clipboard Save](#clipboard-save)
+  - [Clipboard Save Interval](#clipboard-save-interval)
+  - [Clipboard Lists](#clipboard-lists)
+  - [Clipboard Delete](#clipboard-delete)
 
 
 
