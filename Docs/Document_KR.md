@@ -50,6 +50,7 @@
 ### Clipboard Save Interaval
 
 > 실행 이후 콘텐츠 복사를 감지해 자동으로 저장합니다.
+> - 해당 기능을 사용하기 위해서는 `Clipboard Save`가 필요합니다.
 > - 화면이 꺼지고 잠금이 걸려있다면 보안 정책으로 인해 작동이 멈춥니다.
 > 
 > ![20240119_1330526851](https://github.com/otlus/Clipboard-Manager/assets/66173558/9f9e14cb-4f61-4196-a48a-d7136a4d0e8a)
