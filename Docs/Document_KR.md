@@ -4,10 +4,10 @@
 # 📝목차
 - [⚒️설치 방법](#%EF%B8%8F%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95)
 - [✏️사용 방법](#%EF%B8%8F%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95)
-  - [Clipboard Save](#Clipboard-Save)
-  - [Clipboard Save Interval](#Clipboard-Save-Interval)
-  - [Clipboard Lists](#Clipboard-Lists)
-  - [Clipboard Delete](#Clipboard-Delete)
+  - [Clipboard Save](#clipboard-save)
+  - [Clipboard Save Interval](#clipboard-save-interval)
+  - [Clipboard Lists](#clipboard-lists)
+  - [Clipboard Delete](#clipboard-delete)
 
 
 # ⚒️설치 방법
@@ -47,7 +47,7 @@
 > ![20240119_1319247461](https://github.com/otlus/Clipboard-Manager/assets/66173558/da614ce5-9566-4b2f-86d9-d963e692ac94)
 
 
-### Clipboard Save Interaval
+### Clipboard Save Interval
 
 > 실행 이후 콘텐츠 복사를 감지해 자동으로 저장합니다.
 > - 해당 기능을 사용하기 위해서는 `Clipboard Save`가 필요합니다.
