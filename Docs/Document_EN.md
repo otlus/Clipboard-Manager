@@ -48,7 +48,7 @@
 > ![20240119_1319247461](https://github.com/otlus/Clipboard-Manager/assets/66173558/da614ce5-9566-4b2f-86d9-d963e692ac94)
 
 
-### Clipboard Save Interaval
+### Clipboard Save Interval
 
 > Automatically saves the content copied after launch.
 > - This feature requires `Clipboard Save` to work.
